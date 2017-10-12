@@ -8,4 +8,5 @@ This project was bootstrapped with [Create React App]
 6. push button ADD TABLES IN EMTY mySQL
 7. push button ADD 2 users IN EMPTY TABLE
 8. check all in console.
-9. in console write -> yarn start
+9. in console write -> yarn install
+10. in console write -> yarn start
