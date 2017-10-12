@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+  color: white;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  font-size: 25px;
+  padding: 0px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+a {
+  /* text-decoration: none; */
+  color: white;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.link {
+  padding-bottom: 10px;
+}
+
+li {
+  text-decoration: none;
+}
+div {
+  padding-bottom: 10px;
+  background-color: black;
+}
+
+.content {
+  width: 500px;
+  margin: auto;
+}
